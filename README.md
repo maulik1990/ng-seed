@@ -38,3 +38,5 @@ npm install
 1. Uses configurable and modular `gulp` build system.
 2. Uses `Font-Awesome` and `bootstrap glyphicons`.
 3. Configurable `API_END_POINT` that can be switched among `local`, `test`, and `prod` environments.
+
+Please refer this documents for installation.
